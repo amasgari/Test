@@ -3,6 +3,6 @@ public class Main {
         int x = 5;
         int y = 6;
         int z = 10;
-        System.out.println(x + y - z);
+        System.out.println(x + y - z * x * y);
     }
 }
